@@ -1,0 +1,21 @@
+{
+  "id": "AlphaTest",
+  "name": "Red Gen 2.5 v.0.0.15 (early stage demo)",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "games": ["GOLD"],
+  "gen2compat": true,
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "permissions": ["filesystem", "engine_internals"],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "experimental": false,
+  "description": "Authored with the Gen1Recomp content editor",
+  "assets_transforms": "mapbuilder_transforms.lua"
+}
