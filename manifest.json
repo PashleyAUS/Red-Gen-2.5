@@ -1,7 +1,7 @@
 {
   "id": "RedGen25",
   "name": "Red Gen 2.5",
-  "version": "0.0.21",
+  "version": "0.1.0",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
